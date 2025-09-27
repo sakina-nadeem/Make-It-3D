@@ -1,7 +1,7 @@
 import React, { useState } from "react";
 import "bootstrap/dist/css/bootstrap.min.css";
 import { FaArrowRight } from "react-icons/fa";
-import "./request3dprint.css";
+import "./request3Dprint.css";
 
 function Request3DPrint() {
   const steps = ["Shape", "Size", "Material", "Extras", "Summary"];

@@ -2,7 +2,7 @@ import React, { useState, useMemo } from "react";
 import Carousel from "react-bootstrap/Carousel";
 import "bootstrap/dist/css/bootstrap.min.css";
 import { FaArrowRight } from "react-icons/fa";
-import "./request3dprint.css";
+import "./request3Dsize.css";
 
 const steps = ["Shape", "Size", "Material", "Extras", "Summary"];
 
